@@ -4,10 +4,10 @@ OVERVIEW:
 Spam emials pose a significant threat to uses by flooding their inboxes with unwanted messages and potentially harmful content.Our Email Spam Detection model leverages machine learning techniques to classify emails as either spam or non-spam,helping users to filter out unwanted messages and protect against phishing attacks.
 
 USAGE:
-Prepare your email data
-Load the model
-Input data
-Interpret results
+1.Prepare your email data
+2.Load the model
+3.Input data
+4.Interpret results
 
 Machine Learning algorithms used:
 1.Logistic Regression(Scikit-learn)
